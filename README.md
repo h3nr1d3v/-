@@ -99,7 +99,7 @@ Create a `.env` file with your tokens:
     python main.py
     ```
 
-You can show full installation guide [INSTALLATION](INSTALLATION.md)
+You can view full installation guide [INSTALLATION](INSTALLATION.md)
 
 ## ⌨️ Essential Commands
 
