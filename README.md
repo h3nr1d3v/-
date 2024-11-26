@@ -29,7 +29,6 @@
   - [⌨️ Essential Commands](#️-essential-commands)
   - [🎨 Customization](#-customization)
   - [📚 Documentation](#-documentation)
-  - [📈 Project Stats](#-project-stats)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
   - [🙏 Acknowledgments](#-acknowledgments)
@@ -170,14 +169,6 @@ Our comprehensive documentation includes:
 - Common issues and solutions
 - FAQ
 - Support resources
-
-
-
-
-
-## 📈 Project Stats
-
-
 
 
 
